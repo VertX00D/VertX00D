@@ -1,16 +1,26 @@
-### Hi there 👋
-
-<!--
-**VertX00D/VertX00D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Attributes(Vert):
+	def __init__(self) -> None:
+	    pass
+	
+	@staticmethod
+	@staticmethod
+	def life(self) -> tuple:
+		langs         = ['English', 'Turkish', 'France']
+		nationalities = self.langs.remove('French', 'English').append('Korean')
+		age           = 17
+		
+		return langs, nationalities, age
+	
+	@staticmethod
+	def coding(self) -> tuple:
+		langs = {
+			'expert':   ['python'],
+			'intermediate': ['python'],
+			'learning': ['js', 'html', 'css']
+		}
+		specialities  = [discord bots']
+		environnement = ['vscode']
+		
+		return langs, specialities, environnement
+```
