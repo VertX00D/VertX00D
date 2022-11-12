@@ -4,7 +4,6 @@ class Attributes(Vert):
 	    pass
 	
 	@staticmethod
-	@staticmethod
 	def life(self) -> tuple:
 		langs         = ['English', 'Turkish', 'France']
 		nationalities = self.langs.remove('French', 'English').append('Korean')
