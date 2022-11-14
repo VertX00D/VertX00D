@@ -16,7 +16,7 @@ class Attributes(Vert):
 		langs = {
 			'expert':   ['python'],
 			'intermediate': ['python'],
-			'learning': ['js', 'html', 'css']
+			'learning': ['html', 'css']
 		}
 		specialities  = [discord bots']
 		environnement = ['vscode']
